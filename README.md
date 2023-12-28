@@ -1,4 +1,4 @@
-# Sinetiq
+[![Sinetiq](./Sinetiq_Blue_POS.png)](https://sinetiq.se)
 
 ## Strategy and software enabling integration agility
 
@@ -35,4 +35,4 @@ We offer a complete portfolio of products and services, ranging from analysis, i
 
 ## Reach out
 
-Do we spark your interest? Please [https://sinetiq.se/contact/](don’t hesitate to contact us) if you have any questions (or if you just want to chat for a while).
+Do we spark your interest? Please [don’t hesitate to contact us](https://sinetiq.se/contact/) if you have any questions (or if you just want to chat for a while).
