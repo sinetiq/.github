@@ -26,7 +26,7 @@ We offer a complete portfolio of products and services, ranging from analysis, i
 
 ## Our approach
 
-- [https://github.com/sinetiq/api-specification-governance](API Specification Governance)
+- [API Specification Governance](https://github.com/sinetiq/api-specification-governance)
 - API-first
 - Composable architecture
 - Choreography
